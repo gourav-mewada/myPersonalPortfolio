@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Migra';
+    src: url('Migra-Extralight.woff2') format('woff2'),
+        url('Migra-Extralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
